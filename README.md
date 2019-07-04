@@ -16,7 +16,8 @@ making you rage. Trying to last? Well hope you can make it to level 2 LOL XD. So
 <hr size= "2" noshade>
 <br>
 <br>
-<img src= "https://www.lifewire.com/thmb/QaFU7NVVK_8YN8bwSbyCfXn9R-U=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/finder-5c61c03c46e0fb000110647d.jpg" alt= "MacOS" width= "568" length= "212">
+<img src= "https://www.lifewire.com/thmb/QaFU7NVVK_8YN8bwSbyCfXn9R-U=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/finder-5c61c03c46e0fb000110647d.jpg" alt= "MacOS" width= "368" length= "1
+12">
 <h3>✓</h3>
 
 
