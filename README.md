@@ -3,7 +3,7 @@ Welcome to DL, try to last as long as possible. But that wont be long...
 <br>
 <br>
 <br>
-<h2>About</h2>
+<h2>WARNING!</h2>
 <hr size= "2" noshade>
 <br>
 <br>
@@ -12,7 +12,7 @@ making you rage. Trying to last? Well hope you can make it to level 2 LOL XD. So
 -subsoniccreeper2017yt</p>
 <br>
 <br>
-<h2>System Requirements</h2>
+<h2>Software and Compatibility</h2>
 <hr size= "2" noshade>
 <br>
 <br>
