@@ -20,7 +20,7 @@ making you rage. Trying to last? Well hope you can make it to level 2 LOL XD. So
 <br>
 <h3>Linux: ✓</h3>
 <br>
-<h3>Windows (8+): ✓</h3
+<h3>Windows (8 and up): ✓</h3
 <br>
 <br>
 <h3>Chrome: ✓ (recommended)</h3>
